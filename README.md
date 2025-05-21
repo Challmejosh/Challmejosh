@@ -37,5 +37,5 @@ I create tech content on **TikTok** to share what I'm learning and inspire other
 ### 📫 Let's Connect
 
 - TikTok: [@joshdevv](https://tiktok.com/@joshdevv)  
-- LinkedIn: [joshua](https://www.linkedin.com/in/joshua-adediran-a65834243) *(optional)*  
+- LinkedIn: [joshua](https://www.linkedin.com/in/joshua-adediran-a65834243)
 
