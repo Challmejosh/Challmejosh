@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Joshua 👋</h1>
-<p align="center">Frontend Developer | Turning ideas into beautiful, accessible web experiences</p>
+<h1 align="left">Hi, I'm Joshua 👋</h1>
+<p align="left">Frontend Developer | Turning ideas into beautiful, accessible web experiences</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -29,7 +29,7 @@
 
 ### 📹 On TikTok
 
-I create tech content on **TikTok** to share what I'm learning and inspire others to start their tech journey – growing with **30+ followers** and counting!  
+I create tech content on **TikTok** to share what I'm learning and inspire others to start their tech journey – growing with **300+ followers** and counting!  
 [🎥 Follow me](https://tiktok.com/@joshdevv)
 
 ---
